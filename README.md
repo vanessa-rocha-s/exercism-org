@@ -4,7 +4,7 @@
 
 <p>Hello!</p>
 
-<p>📝This is my online notebook with the <b>Python</b> exercises developed on exercism.org.</p>
+<p>📝This is my online notebook with <b>Python's</b> exercises developed on exercism.org.</p>
 <p>👣 Here I'll write down my solutions and also the step-by-step explanation of how I explained the exercise to myself. </p>
 
 <p>🧠🐍 I come from a humanities background and I am developing my logical/mathematical brain while studying Python. </p>
