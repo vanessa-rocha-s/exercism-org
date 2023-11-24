@@ -21,4 +21,6 @@ Let's go together!
 <p>
 Vamos juntos!
 </p>
-![AdventureTimeFinnGIF](https://github.com/vanessa-rocha-s/exercism-org/assets/151482247/7689ece8-8d9a-4994-a2cb-ad85b1f17180)
+
+![AdventureTimeFinnGIF (2)](https://github.com/vanessa-rocha-s/exercism-org/assets/151482247/636d349c-8ae0-40eb-ae77-6f279145ec3f)
+
