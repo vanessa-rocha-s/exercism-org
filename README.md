@@ -18,5 +18,7 @@ Let's go together!
 <p>🧠🐍 Tenho formação em ciências humanas e estou desenvolvendo meu cérebro lógico/matemático enquanto estudo Python. </p>
 <p>💐 Pode ser que, ao compartilhar minhas anotações, alguém também possa se beneficiar.</p>
 
+<p>
 Vamos juntos!
+</p>
 ![AdventureTimeFinnGIF](https://github.com/vanessa-rocha-s/exercism-org/assets/151482247/7689ece8-8d9a-4994-a2cb-ad85b1f17180)
